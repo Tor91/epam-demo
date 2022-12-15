@@ -6,3 +6,6 @@ change somehting on Github
 I add more line to test git gui
 =======
 >>>>>>> 30458872f08e7dc5d628dbf7aeed4a9f748a2e77
+
+>>
+I add some more lines
