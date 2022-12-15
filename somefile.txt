@@ -1,5 +1,8 @@
 text 1
 change somehting on Github
+<<<<<<< HEAD
 .
 .
 I add more line to test git gui
+=======
+>>>>>>> 30458872f08e7dc5d628dbf7aeed4a9f748a2e77
